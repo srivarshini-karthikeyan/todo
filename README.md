@@ -54,7 +54,7 @@ NexusTask is developed using open web standards to ensure maximum compatibility 
 
 The application is built following the Model-View-Controller (MVC) architectural pattern, separating logic, user interface, and data handling for better scalability and maintainability. It leverages an event-driven approach to handle user interactions and state changes efficiently. Styling is managed with CSS custom properties, which makes theming straightforward and centralized.
 
-# Getting Started
+# Access the Application
 
 Clone the Repository: 
 git clone https://github.com/srivarshini-karthikeyan/todo.git
@@ -63,8 +63,6 @@ Launch the Application
 
 You can open the index.html file directly in your browser, or run a local server using one of the following commands:
 python -m http.server 8000
-
-# Access the Application
 
 Directly via file: file:///path-to-project/index.html Or in your browser: http://localhost:8000
 
@@ -84,11 +82,6 @@ Example of theme variables:
   --warning-color: #fdcb6e;
   --danger-color: #e17055;
 }
-
-#Deployment
-
-The application is currently deployed using GitHub Pages and can be accessed at:
-https://srivarshini-karthikeyan.github.io/todo
 
 
 # Author
