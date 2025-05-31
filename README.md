@@ -8,7 +8,7 @@ https://srivarshini-karthikeyan.github.io/todo
 You can view the sample of the application here:
 https://github.com/user-attachments/assets/b9a89b44-afe6-439b-850d-b7a1c3d93ae8
 
-Key Features
+#Key Features
 NexusTask offers a rich set of features designed to make task management efficient and user-friendly:
 
 Comprehensive Task Management
